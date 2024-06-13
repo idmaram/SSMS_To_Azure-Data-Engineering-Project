@@ -1,0 +1,9 @@
+{
+	"name": "adf-de-project-by-maram",
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "6d91d9b1-d33e-48a6-b405-60690a35e71f",
+		"tenantId": "97519106-2299-4fb5-864e-41ce3e14e3a0"
+	}
+}
